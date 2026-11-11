@@ -10,7 +10,7 @@ The framework estimates the probability of a concurrent drought and heatwave (CD
 - Model: XGBoost with probability calibration, evaluated with blocked five-fold cross-validation over 1982–2025.
 
 ## Repository structure
-- `code/`: [list the scripts in order, e.g. Predicting CDHW using ML models multiple lags.py, 02_qdm_bias_correction.py, 03_train_xgboost.py, 04_plots.py]
+- `code/`: [list the scripts in order, e.g. Predicting CDHW using ML models multiple lags.py, C_xgboost_models.py]
 - `data/`: derived data produced in this study [spi_monthly_2025.nc, shi_monthly_upto2025.nc, compoundevent_2025_baseline1951_2000.nc]
 - `figures/`: scripts or outputs for the manuscript figures
 
