@@ -11,7 +11,7 @@ The framework estimates the probability of a concurrent drought and heatwave (CD
 
 ## Repository structure
 - `code/`: [list the scripts in order, e.g. 01_compute_spi_shi.py, 02_qdm_bias_correction.py, 03_train_xgboost.py, 04_plots.py]
-- `data/`: derived data produced in this study [list files]
+- `data/`: derived data produced in this study [spi_monthly_2025.nc, shi_monthly_upto2025.nc, compoundevent_2025_baseline1951_2000.nc]
 - `figures/`: scripts or outputs for the manuscript figures
 
 ## Input data (not included, open access)
