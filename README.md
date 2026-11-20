@@ -11,7 +11,7 @@ The framework estimates the probability of a concurrent drought and heatwave (CD
 
 ## Repository structure
 - `code/`: [list the scripts in order, e.g. Predicting CDHW using ML models multiple lags.py, C_xgboost_models.py]
-- `data/`: Priliminary datasets [rainfall_maxtemperature_monthly_1deg_1951_2025.nc, Climate_indices.csv] and Derived data produced in this study [spi_monthly_2025.nc, shi_monthly_upto2025.nc, compoundevent_2025_baseline1951_2000.nc]
+- `data/`: Priliminary datasets [rainfall_maxtemperature_monthly_1deg_1951_2025.nc, Climate_indices.csv, india_population_density.tif] and Derived data produced in this study [spi_monthly_2025.nc, shi_monthly_upto2025.nc, compoundevent_2025_baseline1951_2000.nc]
 - `figures/`: scripts or outputs for the manuscript figures
 
 ## Input data (not included, open access)
